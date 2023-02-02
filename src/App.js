@@ -1,5 +1,5 @@
 import NotesList from "./components/NotesList";
-import { useEffect, useState } from "react";
+import React, { useEffect, useState } from "react";
 import {nanoid} from 'nanoid';
 import Search from "./components/Search";
 import Header from "./components/Header";
